@@ -1,0 +1,57 @@
+.section1 h2{
+	font-size: 1vw;
+	color:white;
+}
+
+.section1 a {
+	text-decoration: none;
+	color:white;
+}
+.section3 h2{
+	font-size: 1.2vw;
+}
+.section3 span{
+	color:white;
+}
+.section3 a {
+	text-decoration: none;
+	color:white;
+}
+
+.section2 h2{
+	font-size: 2vw;
+}
+.section2 img{
+	width: 100%;
+}
+.photo img{
+	width: 100%;
+}
+.buttons i{
+	color:#00877a;
+	font-size: 3vw;
+}
+.login i{
+	color:#00877a;
+	font-size: 5vw;
+}
+.profile i{
+	color:#00877a;
+	font-size: 5vw;
+}
+.profile h2{
+	font-size:3vw;
+	color:#00877a;
+	padding-top: 60px;
+}
+.profile_section h2{
+	color:white;
+	font-size: 1.3vw;
+	padding: 3px;
+}
+.profile_section label{
+	color:white;
+}
+.posts a{
+	color:white;
+}
